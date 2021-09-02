@@ -1,0 +1,14 @@
+## Interface: 90100
+## Interface-Classic: 11307
+## Interface-BC: 20502
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0TU:RUL MusicPack|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Method, TU:RUL
+## Version: @project-version@
+## X-DBM-MusicPack: 1
+## X-DBM-MusicPack-GlobalName: DBMMTURULPack
+## X-Curse-Project-ID: 523139
+## X-Wago-ID: Rn6VwqKd
+
+LoadList.lua

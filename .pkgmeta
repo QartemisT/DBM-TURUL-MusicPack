@@ -1,0 +1,5 @@
+package-as: DBM-TURUL-MusicPack
+enable-nolib-creation: no
+
+move-folders:
+  DBM-TURUL-MusicPack/DBM-TURUL-MusicPack: DBM-TURUL-MusicPack
