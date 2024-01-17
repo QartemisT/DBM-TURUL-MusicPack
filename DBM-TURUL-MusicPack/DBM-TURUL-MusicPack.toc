@@ -1,7 +1,7 @@
-## Interface: 100100
-## Interface-Classic: 11403
+## Interface: 100205
+## Interface-Classic: 11500
 ## Interface-BCC: 20504
-## Interface-Wrath: 30402
+## Interface-Wrath: 30403
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0TU:RUL MusicPack|r
 ## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## DefaultState: enabled
